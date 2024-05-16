@@ -1,2 +1,2 @@
 # msproduto
-estudando microservices
+Necessário mysql rodando no docker na porta 3306
